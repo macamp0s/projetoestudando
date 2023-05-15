@@ -1,9 +1,9 @@
 const FuncoesInternas = () => {
 
-    const Interna = (nome) => {
+    const Interna = (name) => {
 
         return (
-            nome)
+            name)
 
     }
 
