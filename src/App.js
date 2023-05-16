@@ -9,6 +9,8 @@ import Mercado from './components/05Propschildren/Propschildren';
 
 import Avo from './components/06Contexts/Avo';
 
+import SaveData from './components/07LocalSessionStorage/LocalStorage';
+
 
 
 function App() {
@@ -27,6 +29,8 @@ function App() {
       </Mercado>
 
       <Avo></Avo>
+
+      <SaveData></SaveData>
 
     </div>
   );  
