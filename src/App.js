@@ -17,6 +17,8 @@ import FunctionEstados from './components/09States/Estados';
 
 import PokemonAxios from './components/10ApiAxios/Axios';
 
+import Promessa from './components/11Promises/MinhaPromise';
+
 
 
 function App() {
@@ -44,6 +46,7 @@ function App() {
 
       <PokemonAxios></PokemonAxios>
 
+      <Promessa></Promessa>
     </div>
   );  
 }
