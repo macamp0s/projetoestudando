@@ -11,6 +11,12 @@ import Avo from './components/06Contexts/Avo';
 
 import SaveData from './components/07LocalSessionStorage/LocalStorage';
 
+import Pai2 from './components/08PaiFilho/Pai';
+
+import FunctionEstados from './components/09States/Estados';
+
+import PokemonAxios from './components/10ApiAxios/Axios';
+
 
 
 function App() {
@@ -31,6 +37,12 @@ function App() {
       <Avo></Avo>
 
       <SaveData></SaveData>
+      
+      <Pai2></Pai2>
+
+      <FunctionEstados></FunctionEstados>
+
+      <PokemonAxios></PokemonAxios>
 
     </div>
   );  
